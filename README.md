@@ -8,6 +8,8 @@
 * [Avast Online Security](https://chrome.google.com/webstore/detail/gomekmidlodglbbmalcneegieacbdmki): version(12.0.296)
   * Avast Browser Security and Web Reputation Plugin.
 
+* [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
+  * 世界上最受欢迎的广告拦截软件.
 
 * [Advertising Terminator](https://chrome.google.com/webstore/detail/fpdnjdlbdmifoocedhkighhlbchbiikl): version(3.2.2)
   * Clear all the ads on the page: floating ads, shopping ads, malicious pop, tracking code, video ads.

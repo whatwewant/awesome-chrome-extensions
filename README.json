@@ -8,6 +8,15 @@
     "url": "https://chrome.google.com/webstore/detail/gomekmidlodglbbmalcneegieacbdmki",
     "version": "12.0.296"
   },
+  "Adblock Plus": {
+    "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
+    "type": "extension",
+    "name": "Adblock Plus",
+    "shortName": "Adblock Plus",
+    "description": "世界上最受欢迎的广告拦截软件",
+    "url": "https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb",
+    "version": "1.13.4"
+  },
   "Advertising Terminator": {
     "id": "fpdnjdlbdmifoocedhkighhlbchbiikl",
     "type": "extension",
