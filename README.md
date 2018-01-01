@@ -113,6 +113,9 @@
 * [GitHub Code Folding](https://github.com/noam3127/github-code-folding): version(0.1.1)
   * GitHub 文件浏览菜单。
 
+* [Insight.io for Github](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh)
+  * 高级Github 项目文件浏览，样式比Github Code Folding美观一些.
+
 * [JWT Debugger](https://chrome.google.com/webstore/detail/ppmmlchacdbknfphdeafcbmklcghghmd):
   * JWT.io debugger Chrome extension
 

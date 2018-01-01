@@ -161,6 +161,15 @@
     "url": "https://chrome.google.com/webstore/detail/ghbmnnjooekpmoecnnnilnnbdlolhkhi",
     "version": "1.4"
   },
+  "Insight.io for Github": {
+    "id": "pmhfgjjhhomfplgmbalncpcohgeijonh",
+    "type": "extension",
+    "name": "Insight.io for Github",
+    "shortName": "Insight.io for Github",
+    "description": "Improve GitHub code browsing experience by decorating file page with x-ref. Insight.io understands the semantics of a lot of Java, Scala, C++/C, Ruby, Python, PHP repositories at github.",
+    "url": "https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh",
+    "version": "0.7.9"
+  },
   "Ink for Google™": {
     "id": "hmanckoiohnlgdommlcckcflkmllobgj",
     "type": "extension",
