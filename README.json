@@ -6,7 +6,10 @@
     "shortName": "Avast Online Security",
     "description": "Avast Browser Security and Web Reputation Plugin.",
     "url": "https://chrome.google.com/webstore/detail/gomekmidlodglbbmalcneegieacbdmki",
-    "version": "12.0.296"
+    "version": "12.0.296",
+    "tags": [
+      "safe", "security", "anti virus", "安全"
+    ]
   },
   "Adblock Plus": {
     "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
@@ -15,7 +18,10 @@
     "shortName": "Adblock Plus",
     "description": "世界上最受欢迎的广告拦截软件",
     "url": "https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb",
-    "version": "1.13.4"
+    "version": "1.13.4",
+    "tags": [
+      "去广告", "advertisement", "ad"
+    ]
   },
   "Advertising Terminator": {
     "id": "fpdnjdlbdmifoocedhkighhlbchbiikl",
@@ -24,7 +30,11 @@
     "shortName": "Advertising Terminator",
     "description": "Clear all the ads on the page: floating ads, shopping ads, malicious pop, tracking code, video ads.",
     "url": "https://chrome.google.com/webstore/detail/fpdnjdlbdmifoocedhkighhlbchbiikl",
-    "version": "3.2.2"
+    "version": "3.2.2",
+    "tags": [
+      "去广告", "Advertizement", "ad",
+      "视频"
+    ]
   },
   "App Launcher in popup": {
     "id": "ngoeookbfpbhhmhaidcejfbfpgalaafc",
@@ -42,7 +52,10 @@
     "shortName": "Allow-Control-Allow-Origin: *",
     "description": "Allows to you request any site with ajax from any source. Adds to response 'Allow-Control-Allow-Origin: *' header",
     "url": "https://chrome.google.com/webstore/detail/nlfbmbojpeacfghkpbjhddihlkkiljbi",
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "tags": [
+      "cors", "启用跨域/禁用跨域"
+    ]
   },
   "Awesome Screenshot: Screen Video Recorder": {
     "id": "nlipoenfbbikpbjkfpfillcgkoblgpmj",
@@ -51,7 +64,11 @@
     "shortName": "Awesome Screenshot: Screen Video Recorder",
     "description": "Screencast, record screen as video. Screen capture for full page, annotate, blur sensitive info, and share with one-click uploads.",
     "url": "https://chrome.google.com/webstore/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj",
-    "version": "3.9.33"
+    "version": "3.9.33",
+    "tags": [
+      "screenshot", "record screen", "record video",
+      "截图", "录屏", "视频"
+    ]
   },
   "Authenticator": {
     "id": "bhghoamapcdpbohphigoooaddinpkbai",
@@ -105,7 +122,10 @@
     "shortName": "Fontface Ninja",
     "description": "Explore fonts within a website, try, bookmark and buy them !",
     "url": "https://www.fontface.ninja/",
-    "version": "3.0.4"
+    "version": "3.0.4",
+    "tags": [
+      "font", "fonts", "fontface", "字体"
+    ]
   },
   "GitHub Hovercard": {
     "id": "mmoahbbnojgkclgceahhakhnccimnplk",
@@ -114,7 +134,10 @@
     "shortName": "GitHub Hovercard",
     "description": "Neat hovercards for GitHub.",
     "url": "https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk",
-    "version": "1.4.3"
+    "version": "1.4.3",
+    "tags": [
+      "github", "hovercards"
+    ]
   },
   "GitHub Helper": {
     "id": "bnpgnjajoaimdcjjmfjegpjmbmbplobm",
@@ -123,7 +146,10 @@
     "shortName": "GitHub Helper",
     "description": "Get a better idea about github",
     "url": "https://chrome.google.com/webstore/detail/bnpgnjajoaimdcjjmfjegpjmbmbplobm",
-    "version": "1.2.3"
+    "version": "1.2.3",
+    "tags": [
+      "github"
+    ]
   },
   "Google Translate": {
     "id": "aapbdbdomjkkjkaonfhkkikfgjllcleb",
@@ -141,7 +167,10 @@
     "shortName": "Github Code Folding",
     "description": "Enable code folding when viewing files in GitHub.",
     "url": "https://github.com/noam3127/github-code-folding",
-    "version": "0.1.1"
+    "version": "0.1.1",
+    "tags": [
+      "github", "code folding", "code folder"
+    ]
   },
   "Google Hangouts": {
     "id": "nckgahadagoaajjgafhacjanaoiihapd",
@@ -168,7 +197,10 @@
     "shortName": "Insight.io for Github",
     "description": "Improve GitHub code browsing experience by decorating file page with x-ref. Insight.io understands the semantics of a lot of Java, Scala, C++/C, Ruby, Python, PHP repositories at github.",
     "url": "https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh",
-    "version": "0.7.9"
+    "version": "0.7.9",
+    "tags": [
+      "github", "code folder", "code folding"
+    ]
   },
   "Ink for Google™": {
     "id": "hmanckoiohnlgdommlcckcflkmllobgj",
@@ -186,7 +218,10 @@
     "shortName": "Infinity New Tab",
     "description": "Infinity New Tab, a Chrome-based cloud applications platform, for more elegant and easy in using Chrome.",
     "url": "https://chrome.google.com/webstore/detail/dbfmnekepjoapopniengjbcpnbljalfg",
-    "version": "6.11.14"
+    "version": "6.11.14",
+    "tags": [
+      "new tab", "tab"
+    ]
   },
   "JWT Debugger": {
     "id": "ppmmlchacdbknfphdeafcbmklcghghmd",
@@ -195,7 +230,11 @@
     "shortName": "JWT Debugger",
     "description": "The JWT.io debugger as a Chrome extension",
     "url": "https://chrome.google.com/webstore/detail/ppmmlchacdbknfphdeafcbmklcghghmd",
-    "version": "1.0.7"
+    "version": "1.0.7",
+    "tags": [
+      "jwt", "jsonwebtoken", "token", "web token", "auth", "authorization",
+      "令牌", "密码验证"
+    ]
   },
   "JSBin": {
     "id": "mannpphbjbcmfdgaaaidhfkhjgfmnoji",
@@ -231,7 +270,10 @@
     "shortName": "LastPass: Free Password Manager",
     "description": "LastPass, an award-winning password manager, saves your passwords and gives you secure access from every computer and mobile device.",
     "url": "https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd",
-    "version": "4.3.0.5"
+    "version": "4.3.0.5",
+    "tags": [
+      "密码", "password", "password manager"
+    ]
   },
   "Muzli 2 - Stay Inspired": {
     "id": "glcipcfhmopcgidicgdociohdoicpdfc",
@@ -240,7 +282,10 @@
     "shortName": "Muzli",
     "description": "The freshest links about design and interactive, from around the web. A designer's must!",
     "url": "http://muz.li/?ref=ext",
-    "version": "20.5.6.0"
+    "version": "20.5.6.0",
+    "tags": [
+      "design", "designer", "design news"
+    ]
   },
   "Markdown Here": {
     "id": "elifhakcjgalahccnjkneoccemfahfoa",
@@ -249,7 +294,10 @@
     "shortName": "Markdown Here",
     "description": "Write your email in Markdown, then make it pretty.",
     "url": "http://markdown-here.com/",
-    "version": "2.12.0"
+    "version": "2.12.0",
+    "tags": [
+      "markdown"
+    ]
   },
   "Momentum": {
     "id": "laookkfknpbbblfpciffpaejjkokdgca",
@@ -267,7 +315,10 @@
     "shortName": "NPM Graph",
     "description": "Evaluate NPM packages by listing top GitHub projects that depend on them",
     "url": "https://chrome.google.com/webstore/detail/gnpceigphcdemgkopgfomchcloeimfbk",
-    "version": "1.17.0"
+    "version": "1.17.0",
+    "tags": [
+      "npm", "npm graph", "npm package depend"
+    ]
   },
   "OneTab": {
     "id": "chphlpgkkbolifaimnlloiipkdnihall",
@@ -276,7 +327,10 @@
     "shortName": "OneTab",
     "description": "Save up to 95% memory and reduce tab clutter",
     "url": "https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall",
-    "version": "1.18"
+    "version": "1.18",
+    "tags": [
+      "tab"
+    ]
   },
   "One-Click Extensions Manager": {
     "id": "niemebbfnfbjfojajlmnbiikmcpjkkja",
@@ -294,7 +348,10 @@
     "shortName": "One Extension",
     "description": "One Extension Manages all extensions",
     "url": "https://chrome.google.com/webstore/detail/ifmmombdjpjmdmfeeoghghohbjppmcid",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "tags": [
+      "extension", "extension manager"
+    ]
   },
   "Octotree": {
     "id": "bkhaagjahfmjljalopjnoealnfndnagc",
@@ -303,7 +360,10 @@
     "shortName": "Octotree",
     "description": "Code tree for GitHub",
     "url": "https://github.com/buunguyen/octotree",
-    "version": "2.3.3"
+    "version": "2.3.3",
+    "tags": [
+      "github", "code folder", "code folding", "code tree", "tree"
+    ]
   },
   "Porter Plug": {
     "id": "lngoojfoglemfpbeiomhgheccpdheilp",
@@ -312,7 +372,10 @@
     "shortName": "Porter Plug",
     "description": "Power up your Github experience with embedded repo news and charts from Porter.io",
     "url": "https://porter.io/plug/",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "tags": [
+      "github", "repo", "charts", "repo news"
+    ]
   },
   "Panda 5 | News & Inspiration Dashboard": {
     "id": "haafibkemckmbknhfkiiniobjpgkebko",
@@ -321,7 +384,13 @@
     "shortName": "Panda 5 | News & Inspiration Dashboard",
     "description": "Find the best content. Be informed. Stay inspired.",
     "url": "https://chrome.google.com/webstore/detail/haafibkemckmbknhfkiiniobjpgkebko",
-    "version": "5.2.190"
+    "version": "5.2.190",
+    "tags": [
+      "design", "designer", "design news",
+      "news",
+      "feed", "feeds",
+      "rss"
+    ]
   },
   "Page Ruler": {
     "id": "jlpkojjdgbllmedoapgfodplfhcbnbpn",
@@ -348,7 +417,10 @@
     "shortName": "Proxy SwitchyOmega",
     "description": "Manage and switch between multiple proxies quickly & easily.",
     "url": "https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif",
-    "version": "2.5.8"
+    "version": "2.5.8",
+    "tags": [
+      "proxy", "vpn", "shadowsocks"
+    ]
   },
   "Pretty Beautiful Javascript": {
     "id": "piekbefgpgdecckjcpffhnacjflfoddg",
@@ -375,7 +447,10 @@
     "shortName": "Redux DevTools",
     "description": "Redux DevTools for debugging application's state changes.",
     "url": "https://github.com/zalmoxisus/redux-devtools-extension",
-    "version": "2.15.1"
+    "version": "2.15.1",
+    "tags": [
+      "devtool", "redux", "react"
+    ]
   },
   "ReadFree 传送门": {
     "id": "nnijmebffagpcclklhofdkjeimnmckjp",
@@ -393,7 +468,10 @@
     "shortName": "React Developer Tools",
     "description": "Adds React debugging tools to the Chrome Developer Tools.",
     "url": "https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi",
-    "version": "2.5.2"
+    "version": "2.5.2",
+    "tags": [
+      "devtool", "react"
+    ]
   },
   "React-Sight": {
     "id": "aalppolilappfakpmdfdkpppdnhpgifn",
@@ -438,7 +516,10 @@
     "shortName": "Save to Pocket",
     "description": "Pocket Extension for Chrome - The best way to save articles, videos and more",
     "url": "https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj",
-    "version": "2.1.49"
+    "version": "2.1.49",
+    "tags": [
+      "pocket", "video", "article", "离线阅读", "同步", "阅读"
+    ]
   },
   "Tweak": {
     "id": "fbplhagncboilolaafkppcmgcembfide",
@@ -483,7 +564,11 @@
     "shortName": "UC Qr Code",
     "description": "Create Qr Images Instantly! Download and Share Easily. Free!",
     "url": "https://chrome.google.com/webstore/detail/nhelohnehpahakjoklmodmogclacjgdj",
-    "version": "1.0.1.1"
+    "version": "1.0.1.1",
+    "tags": [
+      "qrcode", "qr",
+      "二维码"
+    ]
   },
   "Vue.js devtools": {
     "id": "nhdogjmejiglipccpnnnanhbledajbpd",
@@ -492,7 +577,10 @@
     "shortName": "Vue.js devtools",
     "description": "Chrome and Firefox DevTools extension for debugging Vue.js applications.",
     "url": "https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd",
-    "version": "3.1.6"
+    "version": "3.1.6",
+    "tags": [
+      "devtool", "vue", "vue.js"
+    ]
   },
   "Visualping": {
     "id": "pemhgklkefakciniebenbfclihhmmfcd",
@@ -510,7 +598,10 @@
     "shortName": "Vimium",
     "description": "The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.",
     "url": "https://chrome.google.com/webstore/detail/dbepggeogbaibhgnhhndojpepiihcmeb",
-    "version": "1.61.1"
+    "version": "1.61.1",
+    "tags": [
+      "vim", "keyboard shortcuts"
+    ]
   },
   "Water Drop": {
     "id": "hgiigopiighpjecejogmbknakoenkoff",
@@ -519,7 +610,10 @@
     "shortName": "Water Drop",
     "description": "Collect Water Drop From Internet",
     "url": "",
-    "version": "1.8.0"
+    "version": "1.8.0",
+    "tags": [
+      "news", "frontend"
+    ]
   },
   "Window Resizer": {
     "id": "fgcikanifihhgnacepigehgmplgkkgcl",
@@ -528,7 +622,10 @@
     "shortName": "Window Resizer",
     "description": "Resize Google Chrome windows.",
     "url": "https://chrome.google.com/webstore/detail/fgcikanifihhgnacepigehgmplgkkgcl",
-    "version": "0.3"
+    "version": "0.3",
+    "tags": [
+      "resize", "window resizer"
+    ]
   },
   "WordHelper": {
     "id": "aalkiebfppmljohjkeooaaedldmfnbnm",
@@ -537,7 +634,10 @@
     "shortName": "WordHelper",
     "description": "单词助手",
     "url": "https://chrome.google.com/webstore/detail/aalkiebfppmljohjkeooaaedldmfnbnm",
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "tags": [
+      "translate", "翻译", "英译汉"
+    ]
   },
   "Wappalyzer": {
     "id": "gppongmhjkpfnbhagpmjfkannfbllamg",
@@ -546,7 +646,10 @@
     "shortName": "Wappalyzer",
     "description": "Identify web technologies",
     "url": "https://www.wappalyzer.com/",
-    "version": "5.1.6"
+    "version": "5.1.6",
+    "tags": [
+      "web", "web technologies", "js", "javascript", "技术栈", "stackshare"
+    ]
   },
   "Webpage Palette": {
     "id": "mijaclaafpfelglilelknpmoknkbdaca",
@@ -564,7 +667,18 @@
     "shortName": "WEB前端助手(FeHelper)",
     "description": "FE助手：包括字符串编解码、代码压缩、美化、JSON格式化、正则表达式、时间转换工具、二维码生成与解码、编码规范检测、页面性能检测、页面取色、Ajax接口调试",
     "url": "https://www.baidufe.com/fehelper",
-    "version": "10.5"
+    "version": "10.5",
+    "tags": [
+      "字符串编解码", "encode", "decode",
+      "代码压缩", "compress", "compression",
+      "美化", "beautify code",
+      "JSON格式化", "json", "json format",
+      "正则表达式", "reg", "regexp",
+      "时间转换工具", "date format", "format date",
+      "二维码生成与解码", "qrcode", "qr code",
+      "编码规范检测", "页面性能检测", "页面取色",
+      "Ajax接口调试", "ajax"
+    ]
   },
   "Wikiwand: Wikipedia Modernized": {
     "id": "emffkefkbkpkgpdeeooapgaicgmcbolj",
@@ -609,6 +723,11 @@
     "shortName": "掘金",
     "description": "为设计师、程序员、产品经理每日发现优质内容。",
     "url": "https://chrome.google.com/webstore/detail/lecdifefmmfjnjjinhaennhdlmcaeeeb",
-    "version": "0.3.7"
+    "version": "0.3.7",
+    "tags": [
+      "news", "design news",
+      "designer", "programmer", "product manager",
+      "设计师", "程序员", "产品经理"
+    ]
   }
 }
