@@ -54,8 +54,14 @@
 * [One-Click Extensions Manager](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja):
   * 管理 chrome extensions.
 
+* [Rescroller](https://chrome.google.com/webstore/detail/rescroller/ddehdnnhjimbggeeenghijehnpakijod)
+  * 自定义滚动条 
+
 * [Save to Pocket](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj): version(2.1.49)
   * Pocket Chrome扩展. 保存浏览的文章、视频等，同步到多端.
+
+* [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+  * 让任意网站变成可以拖拽的Artboard，为设计师服务. 
 
 * [WordHelper](https://chrome.google.com/webstore/detail/aalkiebfppmljohjkeooaaedldmfnbnm): version(1.0.3)
   * 单词助手
@@ -133,9 +139,6 @@
 
 * [NPM Graph - linking GitHub and NPM](https://chrome.google.com/webstore/detail/gnpceigphcdemgkopgfomchcloeimfbk): version(1.17.0)
   * Evaluate NPM packages by listing top GitHub projects that depend on them
-
-
-
 
 * [Octotree](https://github.com/buunguyen/octotree):
   * Code tree for GitHub

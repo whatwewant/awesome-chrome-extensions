@@ -482,6 +482,18 @@
     "url": "https://chrome.google.com/webstore/detail/aalppolilappfakpmdfdkpppdnhpgifn",
     "version": "1.0.4"
   },
+  "Rescroller": {
+    "id": "ddehdnnhjimbggeeenghijehnpakijod",
+    "type": "extension",
+    "name": "Rescroller",
+    "shortName": "Rescroller",
+    "description": "Decorate your scrollbars.",
+    "url": "https://chrome.google.com/webstore/detail/rescroller/ddehdnnhjimbggeeenghijehnpakijod",
+    "version": "1.3",
+    "tags": [
+      "scroller", "滚动条"
+    ]
+  },
   "Similar Sites - Discover Related Websites": {
     "id": "necpbmbhhdiplmfhmjicabdeighkndkn",
     "type": "extension",
@@ -568,6 +580,18 @@
     "tags": [
       "qrcode", "qr",
       "二维码"
+    ]
+  },
+  "VisBug": {
+    "id": "cdockenadnadldjbbgcallicgledbeoc",
+    "type": "extension",
+    "name": "VisBug",
+    "shortName": "VisBug",
+    "description": "让任意网站变成可以拖拽的Artboard，为设计师服务.Give power to designers & content creators, in a place where they currently feel they have little to none, **by bringing design tool interactions and hotkeys to the browser**",
+    "url": "https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc",
+    "version": "0.1.14",
+    "tags": [
+      "design", "可视化", "数据可视化", "爬虫"
     ]
   },
   "Vue.js devtools": {
