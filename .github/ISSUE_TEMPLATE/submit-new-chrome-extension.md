@@ -1,7 +1,7 @@
 ---
 name: Submit New Chrome Extension
 about: Submit New Chrome Extension
-title: ''
+title: Feature
 labels: ''
 assignees: ''
 
