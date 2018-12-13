@@ -1,7 +1,8 @@
 # Awesome browser extensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/whatwewant/awesome-chrome-extensions)
 
 > A collection of awesome chrome extensions.
-
+> ** 配合 [One Extension](https://chrome.google.com/webstore/detail/one-extension/ifmmombdjpjmdmfeeoghghohbjppmcid) 管理扩展食用更佳. **
+> 欢迎推荐你觉得值得使用的Chrome插件 - [传送门](https://github.com/whatwewant/awesome-chrome-extensions/issues/new?assignees=&labels=&template=submit-new-chrome-extension.md&title=Feature)
 
 ## 分类(Categories)
 
