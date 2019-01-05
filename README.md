@@ -24,6 +24,7 @@
 * [One-Click Extensions Manager](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja): 管理 chrome extensions.
 * [Rescroller](https://chrome.google.com/webstore/detail/rescroller/ddehdnnhjimbggeeenghijehnpakijod): 自定义滚动条 
 * [Save to Pocket](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj): Pocket Chrome扩展. 保存浏览的文章、视频等，同步到多端.
+* [Steward](https://chrome.google.com/webstore/detail/steward/dnkhdiodfglfckibnfcjbgddcgjgkacd): 启动器/便捷管理扩展/应用/标签/历史记录等, Browser Alfred.
 * [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc): 让任意网站变成可以拖拽的Artboard，为设计师服务. 
 * [WordHelper](https://chrome.google.com/webstore/detail/aalkiebfppmljohjkeooaaedldmfnbnm): 单词助手
 

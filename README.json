@@ -512,6 +512,15 @@
     "url": "https://chrome.google.com/webstore/detail/blfngdefapoapkcdibbdkigpeaffgcil",
     "version": "0.5"
   },
+  "Steward": {
+    "id": "dnkhdiodfglfckibnfcjbgddcgjgkacd",
+    "type": "extension",
+    "name": "Steward",
+    "shortName": "Steward",
+    "description": "启动器/便捷管理扩展/应用/标签/历史记录等. 不占用 New Tab 版: Browser Alfred.",
+    "url": "https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd",
+    "version": "3.6.1"
+  },
   "Stylish - Custom themes for any website": {
     "id": "fjnbnpbmkenffdnngjfgmeleoegfcffe",
     "type": "extension",
