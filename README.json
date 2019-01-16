@@ -97,6 +97,15 @@
     "url": "https://chrome.google.com/webstore/detail/heolgpojkkeacaokbpolhalhlaidpkkc",
     "version": "0.5.0"
   },
+  "Console Importer": {
+    "id": "hgajpakhafplebkdljleajgbpdmplhie",
+    "type": "extension",
+    "name": "Console Importer",
+    "shortName": "Console Importer",
+    "description": "Import JavaScript and CSS resources from console, with one command",
+    "url": "https://chrome.google.com/webstore/detail/hgajpakhafplebkdljleajgbpdmplhie",
+    "version": "1.4.0"
+  },
   "Context": {
     "id": "aalnjolghjkkogicompabhhbbkljnlka",
     "type": "extension",
