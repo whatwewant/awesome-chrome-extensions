@@ -36,6 +36,7 @@
 ### 视频(Video)
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb): 世界上最受欢迎的广告拦截软件. [国外]
 * [Advertising Terminator](https://chrome.google.com/webstore/detail/fpdnjdlbdmifoocedhkighhlbchbiikl): 国内去广告最好用的Chrome插件.
+* [Console Importer](https://chrome.google.com/webstore/detail/hgajpakhafplebkdljleajgbpdmplhie): 很方便的在你的Chrome中体验 NPM Package 和 在线js/css.
 * [Coplay](https://chrome.google.com/webstore/detail/heolgpojkkeacaokbpolhalhlaidpkkc): 同步视频播放。
 
 ### 丰富首页 (Improve Home Page)
