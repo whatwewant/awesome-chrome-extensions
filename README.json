@@ -551,6 +551,15 @@
       "pocket", "video", "article", "离线阅读", "同步", "阅读"
     ]
   },
+  "Taskade": {
+    "id": "hcobdfnjjaceclfdjpmmpiknimccjpmf",
+    "type": "extension",
+    "name": "Taskade",
+    "shortName": "Taskade",
+    "description": "将您的主页变成团队生产力机器。 Taskade是用于远程团队的实时组织和协作工具。",
+    "url": "https://chrome.google.com/webstore/detail/taskade-team-tasks-notes/hcobdfnjjaceclfdjpmmpiknimccjpmf",
+    "version": "3.2.0"
+  },
   "Tweak": {
     "id": "fbplhagncboilolaafkppcmgcembfide",
     "type": "extension",
