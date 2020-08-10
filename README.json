@@ -160,6 +160,18 @@
       "github"
     ]
   },
+  "Gitpod": {
+    "id": "dodmmooeoklaejobgleioelladacbeki",
+    "type": "extension",
+    "name": "Gitpod",
+    "shortName": "Gitpod",
+    "description": "Dev Environments in a Browser Tab",
+    "url": "https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki",
+    "version": "1.6",
+    "tags": [
+      "github"
+    ]
+  },
   "Google Translate": {
     "id": "aapbdbdomjkkjkaonfhkkikfgjllcleb",
     "type": "extension",
