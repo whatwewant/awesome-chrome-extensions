@@ -97,6 +97,19 @@
     "url": "https://chrome.google.com/webstore/detail/heolgpojkkeacaokbpolhalhlaidpkkc",
     "version": "0.5.0"
   },
+  "Open in CodeSandbox": {
+    "id": "hdidglkcgdolpoijdckmafdnddjoglia",
+    "type": "extension",
+    "name": "Open in CodeSandbox",
+    "shortName": "Open in CodeSandbox",
+    "description": "Adds an 'Open in CodeSandbox' button to GitHub repos",
+    "url": "https://chrome.google.com/webstore/detail/open-in-codesandbox/hdidglkcgdolpoijdckmafdnddjoglia",
+    "version": "1.2.0",
+    "tags": [
+      "github",
+      "codesandbox"
+    ]
+  },
   "Console Importer": {
     "id": "hgajpakhafplebkdljleajgbpdmplhie",
     "type": "extension",

@@ -51,6 +51,7 @@
 ### 开发工具(Develop Tools)
 * [Allow-Control-Allow-Origin: *](https://chrome.google.com/webstore/detail/nlfbmbojpeacfghkpbjhddihlkkiljbi): 强行开启跨域支持, 自定义Allow-Control-Allow-Origin;
 * [Fontface Ninja](https://www.fontface.ninja/): 快速查询网站用到的字体，方便查看任意文字使用的字体，并且提供字体购买链接.
+* [Open in CodeSandbox](https://chrome.google.com/webstore/detail/open-in-codesandbox/hdidglkcgdolpoijdckmafdnddjoglia): Adds an 'Open in CodeSandbox' button to GitHub repos
 * [GitHub Hovercard](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk): GitHub 项目悬停展示的卡片(Neat hovercards).
 * [GitHub Helper](https://chrome.google.com/webstore/detail/bnpgnjajoaimdcjjmfjegpjmbmbplobm): Github 首页丰富订阅信息等.
 * [GitHub Code Folding](https://github.com/noam3127/github-code-folding): GitHub 文件浏览菜单。
