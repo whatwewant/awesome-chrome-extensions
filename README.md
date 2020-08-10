@@ -54,6 +54,7 @@
 * [GitHub Hovercard](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk): GitHub 项目悬停展示的卡片(Neat hovercards).
 * [GitHub Helper](https://chrome.google.com/webstore/detail/bnpgnjajoaimdcjjmfjegpjmbmbplobm): Github 首页丰富订阅信息等.
 * [GitHub Code Folding](https://github.com/noam3127/github-code-folding): GitHub 文件浏览菜单。
+* [Gitpod](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki): Dev Environments in a Browser Tab
 * [Insight.io for Github](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh): 高级Github 项目文件浏览，样式比Github Code Folding美观一些.
 * [JWT Debugger](https://chrome.google.com/webstore/detail/ppmmlchacdbknfphdeafcbmklcghghmd): JWT.io debugger Chrome extension
 * [JSBin](https://chrome.google.com/webstore/detail/mannpphbjbcmfdgaaaidhfkhjgfmnoji): JS Bin - Collaborative JavaScript Debugging
