@@ -79,6 +79,15 @@
     "url": "https://chrome.google.com/webstore/detail/bhghoamapcdpbohphigoooaddinpkbai",
     "version": "4.18"
   },
+  "Better-Onetab": {
+    "id": "eookhngofldnbnidjlbkeecljkfpmfpg",
+    "type": "extension",
+    "name": "Better-Onetab",
+    "shortName": "Better-Onetab",
+    "description": "更好用的 onetab, 支持很多很棒的功能",
+    "url": "https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg",
+    "version": "1.4.7"
+  },
   "Black Menu for Google™": {
     "id": "eignhdfgaldabilaaegmdfbajngjmoke",
     "type": "extension",
