@@ -29,6 +29,9 @@
 * [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc): 让任意网站变成可以拖拽的Artboard，为设计师服务. 
 * [WordHelper](https://chrome.google.com/webstore/detail/aalkiebfppmljohjkeooaaedldmfnbnm): 单词助手
 
+### 生产力(productivity)
+* [Better-Onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg): 更好用的 onetab, 支持很多很棒的功能
+
 ### 安全(Security)
 * [Avast Online Security](https://chrome.google.com/webstore/detail/gomekmidlodglbbmalcneegieacbdmki): Avast 浏览器版本，帮助你识别恶意链接，避免损失.
 * [LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd): 值得信任的在线密码管理器.
