@@ -10,7 +10,10 @@ assignees: ''
 ### Name (Such as: One Extension)
 * ...
 
-### Chrome Store URL (Such as: https://chrome.google.com/webstore/detail/one-extension/ifmmombdjpjmdmfeeoghghohbjppmcid)
+### Chrome StoreURL (Such as: https://chrome.google.com/webstore/detail/one-extension/ifmmombdjpjmdmfeeoghghohbjppmcid)
+* ...
+
+### Open Source (Optional, Such as: https://github.com/whatwewant/awesome-chrome-extensions)
 * ...
 
 ### Category
