@@ -549,6 +549,15 @@
       "scroller", "滚动条"
     ]
   },
+  "Screenity": {
+    "id": "kbbdabhdfibnancpjfhlkhafgdilcnji",
+    "type": "extension",
+    "name": "Screenity",
+    "shortName": "Screenity",
+    "description": "屏幕录像和标注工具，助 Screenity，您可以前所未有地录制和标注屏幕，更好地录制工作、教育等内容，为学生提供情景反馈、详细的解释，或者只是向潜在客户展示您的产品，Awesome Screenshot 的代替品",
+    "url": "https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji",
+    "version": "2.6.4"
+  },
   "Similar Sites - Discover Related Websites": {
     "id": "necpbmbhhdiplmfhmjicabdeighkndkn",
     "type": "extension",
