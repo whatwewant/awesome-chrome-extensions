@@ -158,6 +158,18 @@
       "font", "fonts", "fontface", "字体"
     ]
   },
+  "Gitako": {
+    "id": "giljefjcheohhamkjphiebfjnlphnokk",
+    "type": "extension",
+    "name": "Gitako",
+    "shortName": "Gitako",
+    "description": "GitHub file tree, alternative of Octotree",
+    "url": "https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk",
+    "version": "2.7.2",
+    "tags": [
+      "github", "code folder", "code folding", "code tree", "tree"
+    ]
+  },
   "GitHub Hovercard": {
     "id": "mmoahbbnojgkclgceahhakhnccimnplk",
     "type": "extension",

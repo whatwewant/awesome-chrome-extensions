@@ -13,6 +13,7 @@
 * [Black Menu for Google™](https://carlosjeurissen.com/black-menu-for-google): 快速使用 Google 应用.
 * [Context](https://chrome.google.com/webstore/detail/aalnjolghjkkogicompabhhbbkljnlka): 将你的Chrome Extension进行分类管理.
 * [EpubPress - Read the web offline](https://epub.press/): 快速把博客等任意网址制作成电子书, 方便阅读。
+* [Gitako - GitHub file tree](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk): GitHub file tree，Octotree 的代替品
 * [Google Translate](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb): 使用谷歌翻译翻译你的软件.
 * [Google Hangouts](https://chrome.google.com/webstore/detail/nckgahadagoaajjgafhacjanaoiihapd): Google 自家的聊天视频软件.
 * [Google Docs Offline](https://chrome.google.com/webstore/detail/ghbmnnjooekpmoecnnnilnnbdlolhkhi): Google Docs 离线使用.
