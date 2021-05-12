@@ -194,6 +194,18 @@
       "github"
     ]
   },
+  "Github Web IDE": {
+    "id": "adjiklnjodbiaioggfpbpkhbfcnhgkfe",
+    "type": "extension",
+    "name": "Github Web IDE",
+    "shortName": "Github Web IDE",
+    "description": "Open Github repositories in online web IDE",
+    "url": "https://chrome.google.com/webstore/detail/adjiklnjodbiaioggfpbpkhbfcnhgkfe",
+    "version": "1.0.11",
+    "tags": [
+      "github"
+    ]
+  },
   "Gitpod": {
     "id": "dodmmooeoklaejobgleioelladacbeki",
     "type": "extension",
@@ -537,6 +549,18 @@
     "url": "https://chrome.google.com/webstore/detail/aalppolilappfakpmdfdkpppdnhpgifn",
     "version": "1.0.4"
   },
+  "Repositree": {
+    "id": "lafjldoccjnjlcmdhmniholdpjkbgajo",
+    "type": "extension",
+    "name": "Repositree",
+    "shortName": "Repositree",
+    "description": "GitHub file tree, alternative of Octotree",
+    "url": "https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo",
+    "version": "1.6.0",
+    "tags": [
+      "github", "code folder", "code folding", "code tree", "tree"
+    ]
+  },
   "Rescroller": {
     "id": "ddehdnnhjimbggeeenghijehnpakijod",
     "type": "extension",
@@ -834,6 +858,20 @@
       "news", "design news",
       "designer", "programmer", "product manager",
       "设计师", "程序员", "产品经理"
+    ]
+  },
+  "微信公众号同步助手": {
+    "id": "hchobocdmclopcbnibdnoafilagadion",
+    "type": "extension",
+    "name": "微信公众号同步助手",
+    "shortName": "微信公众号同步助手",
+    "description": "微信公众号文章同步助手，支持头条号、简书、知乎、WordPress",
+    "url": "https://chrome.google.com/webstore/detail/lecdifefmmfjnjjinhaennhdlmcaeeeb",
+    "version": "0.3.7",
+    "tags": [
+      "Wechat", "微信",
+      "文章同步", "公众号",
+      "掘金", "知乎", "今日头条"
     ]
   }
 }
