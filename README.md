@@ -35,6 +35,7 @@
 
 ### 生产力(productivity)
 * [Better-Onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg): 更好用的 onetab, 支持很多很棒的功能
+* [微信公众号同步助手](https://chrome.google.com/webstore/detail/hchobocdmclopcbnibdnoafilagadion) - 微信公众号文章同步助手，支持头条号、简书、知乎、WordPress
 
 ### 安全(Security)
 * [Avast Online Security](https://chrome.google.com/webstore/detail/gomekmidlodglbbmalcneegieacbdmki): Avast 浏览器版本，帮助你识别恶意链接，避免损失.
@@ -61,7 +62,8 @@
 * [Open in CodeSandbox](https://chrome.google.com/webstore/detail/open-in-codesandbox/hdidglkcgdolpoijdckmafdnddjoglia): Adds an 'Open in CodeSandbox' button to GitHub repos
 * [GitHub Hovercard](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk): GitHub 项目悬停展示的卡片(Neat hovercards).
 * [GitHub Helper](https://chrome.google.com/webstore/detail/bnpgnjajoaimdcjjmfjegpjmbmbplobm): Github 首页丰富订阅信息等.
-* [GitHub Code Folding](https://github.com/noam3127/github-code-folding): GitHub 文件浏览菜单。
+* [GitHub Helper](https://chrome.google.com/webstore/detail/bnpgnjajoaimdcjjmfjegpjmbmbplobm): Github 首页丰富订阅信息等.
+* [Github Web IDE](https://github.com/noam3127/github-code-folding): Open Github repositories in online web IDE.
 * [Gitpod](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki): Dev Environments in a Browser Tab
 * [Insight.io for Github](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh): 高级Github 项目文件浏览，样式比Github Code Folding美观一些.
 * [JWT Debugger](https://chrome.google.com/webstore/detail/ppmmlchacdbknfphdeafcbmklcghghmd): JWT.io debugger Chrome extension
@@ -78,6 +80,7 @@
 * [Quick source viewer](https://chrome.google.com/webstore/detail/cfmcghennfbpmhemnnfjhkdmnbidpanb): 快速浏览当前网页源码: HTML + Javascript + CSS.
 * [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension): Redux 开发调试工具.
 * [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi): React 开发调试工具.
+* [Repositree](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo) - GitHub file tree, alternative of Octotree
 * [React-Sight](https://chrome.google.com/webstore/detail/aalppolilappfakpmdfdkpppdnhpgifn): Extends the Developer Tools, adding a sidebar that displays React Component Hierarchy.
 * [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn): Instantly find websites similar to the one you’re currently browsing. Explore the web, discover more.
 * [SnappySnippet](https://chrome.google.com/webstore/detail/blfngdefapoapkcdibbdkigpeaffgcil):  快速从选定的元素中提取CSS和HTML。然后把它发送到CodePen，jsFiddle或JSBin.
