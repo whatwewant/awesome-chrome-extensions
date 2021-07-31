@@ -44,6 +44,7 @@
 ### 生产力（Productivity）
 * [Better-Onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg): 更好用的 onetab, 支持很多很棒的功能
 * [微信公众号同步助手](https://chrome.google.com/webstore/detail/hchobocdmclopcbnibdnoafilagadion) - 微信公众号文章同步助手，支持头条号、简书、知乎、WordPress
+* [RSSHub-Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa) - 帮助你快速发现和订阅当前网站的 RSS 和 RSSHub
 
 ### 安全（Security）
 * [Avast Online Security](https://chrome.google.com/webstore/detail/gomekmidlodglbbmalcneegieacbdmki): Avast 浏览器版本，帮助你识别恶意链接，避免损失.
