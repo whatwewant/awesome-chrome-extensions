@@ -88,6 +88,15 @@
     "url": "https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg",
     "version": "1.4.7"
   },
+  "Bitwarden": {
+    "id": "nngceckbapebfimnlniiiahkandclblb",
+    "type": "extension",
+    "name": "Bitwarden",
+    "shortName": "Bitwarden",
+    "description": "免费的密码管理器，支持个人和团队，是 Lastpass 替代品",
+    "url": "https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb",
+    "version": "1.51.1"
+  },
   "Black Menu for Google™": {
     "id": "eignhdfgaldabilaaegmdfbajngjmoke",
     "type": "extension",
