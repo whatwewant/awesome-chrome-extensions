@@ -713,6 +713,15 @@
       "二维码"
     ]
   },
+  "Urlify": {
+    "id": "nkjhpeaddieapfonodmgbcaebclooknd",
+    "type": "extension",
+    "name": "Urlify",
+    "shortName": "Urlify",
+    "description": "右键快速生成短链接",
+    "url": "https://chrome.google.com/webstore/detail/urlify-%E7%9F%AD%E9%93%BE%E6%8E%A5%E5%B7%A5%E5%85%B7/nkjhpeaddieapfonodmgbcaebclooknd",
+    "version": "1.0.4"
+  },
   "VisBug": {
     "id": "cdockenadnadldjbbgcallicgledbeoc",
     "type": "extension",
