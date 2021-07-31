@@ -312,6 +312,15 @@
     "url": "https://chrome.google.com/webstore/detail/mannpphbjbcmfdgaaaidhfkhjgfmnoji",
     "version": "1.0.0"
   },
+  "Keptab": {
+    "id": "feodekcipceogpeomnijgmdlmocbggbi",
+    "type": "extension",
+    "name": "Keptab",
+    "shortName": "Keptab",
+    "description": "保存标签分组用于稍后阅读",
+    "url": "https://chrome.google.com/webstore/detail/keptab/feodekcipceogpeomnijgmdlmocbggbi",
+    "version": "0.4"
+  },
   "Lookup Companion for Wikipedia": {
     "id": "dhgpkiiipkgmckicafkhcihkcldbdeej",
     "type": "extension",
