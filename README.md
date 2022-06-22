@@ -66,7 +66,7 @@
 * [Momentum](https://chrome.google.com/webstore/detail/laookkfknpbbblfpciffpaejjkokdgca): 自定义首页，提供天气、备忘清单、灵感等.
 * [开发者头条分享阅读插件](https://chrome.google.com/webstore/detail/kdchifnbpeflbphakmpbcfdjeidkfeop): 一键分享你喜欢的内容到开发者头条，阅读开发者头条每日精选
 * [Taskade](https://chrome.google.com/webstore/detail/taskade-team-tasks-notes/hcobdfnjjaceclfdjpmmpiknimccjpmf): 将您的主页变成团队生产力机器。 Taskade是用于远程团队的实时组织和协作工具。
-
+* [Daily.Dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied): 每个开发者都应该拥有的主页，自动订阅技术前沿。
 
 ### 开发工具（DevelopTools）
 * [Allow-Control-Allow-Origin: *](https://chrome.google.com/webstore/detail/nlfbmbojpeacfghkpbjhddihlkkiljbi): 强行开启跨域支持, 自定义Allow-Control-Allow-Origin;

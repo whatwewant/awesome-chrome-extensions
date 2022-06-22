@@ -123,6 +123,19 @@
     "url": "https://chrome.google.com/webstore/detail/heolgpojkkeacaokbpolhalhlaidpkkc",
     "version": "0.5.0"
   },
+  "Daily.Dev": {
+    "id": "jlmpjdjjbgclbocgajdjefcidcncaied",
+    "type": "extension",
+    "name": "daily.dev",
+    "shortName": "daily.dev",
+    "description": "每个开发者都应该拥有的主页，自动订阅技术前沿",
+    "url": "https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied",
+    "version": "3.16.5",
+    "tags": [
+      "homepage",
+      "news"
+    ]
+  },
   "Open in CodeSandbox": {
     "id": "hdidglkcgdolpoijdckmafdnddjoglia",
     "type": "extension",
