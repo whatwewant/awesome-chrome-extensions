@@ -79,6 +79,19 @@
     "url": "https://chrome.google.com/webstore/detail/bhghoamapcdpbohphigoooaddinpkbai",
     "version": "4.18"
   },
+  "Automa": {
+    "id": "infppggnoaenmfagbfknfkancpbljcca",
+    "type": "extension",
+    "name": "Automa",
+    "shortName": "Automa",
+    "description": "一个自动化浏览器操作的扩展，包括自动填充表单、重复任务、截图、爬虫等",
+    "url": "https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca",
+    "version": "1.13.2",
+    "tags": [
+      "productive", "automate", "crawl", "spider", "screenshot", "scrapy",
+      "自动化", "截图", "录屏", "视频"
+    ]
+  },
   "Better-Onetab": {
     "id": "eookhngofldnbnidjlbkeecljkfpmfpg",
     "type": "extension",
