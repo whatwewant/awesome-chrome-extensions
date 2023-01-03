@@ -162,6 +162,19 @@
       "codesandbox"
     ]
   },
+  "ChatGPT-for-Google": {
+    "id": "hdidglkcgdolpoijdckmafdnddjoglia",
+    "type": "extension",
+    "name": "ChatGPT-for-Google",
+    "shortName": "ChatGPT-for-Google",
+    "description": "将 ChatGPT 用于 Google Search",
+    "url": "https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf",
+    "version": "1.11.6",
+    "tags": [
+      "ai",
+      "chatgpt"
+    ]
+  },
   "Console Importer": {
     "id": "hgajpakhafplebkdljleajgbpdmplhie",
     "type": "extension",
