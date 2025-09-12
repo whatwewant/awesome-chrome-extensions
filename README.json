@@ -489,6 +489,18 @@
       "extension", "extension manager"
     ]
   },
+  "OpenGraphs": {
+    "id": "kiifpjdcadbbbhoocoobahkogpnmngio",
+    "type": "extension",
+    "name": "OpenGraphs",
+    "shortName": "OpenGraphs",
+    "description": "Open Graph debugger and social share previews, without leaving your site.",
+    "url": "https://chromewebstore.google.com/detail/opengraphs/kiifpjdcadbbbhoocoobahkogpnmngio",
+    "version": "0.0.3",
+    "tags": [
+      "open graph", "open graph debugger", "open graph previews"
+    ]
+  },
   "Octotree": {
     "id": "bkhaagjahfmjljalopjnoealnfndnagc",
     "type": "extension",
