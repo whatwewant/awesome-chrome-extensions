@@ -34,7 +34,7 @@
 * [OneTab](https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall): 快速关闭浏览器Tab，节省内存，并快速恢复历史
 * [One Extension](https://chrome.google.com/webstore/detail/ifmmombdjpjmdmfeeoghghohbjppmcid): 一个扩展管理所有Chrome扩展的开关，支持搜索
 * [One-Click Extensions Manager](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja): 管理 chrome extensions
-* [Rescroller](https://chrome.google.com/webstore/detail/rescroller/ddehdnnhjimbggeeenghijehnpakijod): 自定义滚动条 
+* [Rescroller](https://chrome.google.com/webstore/detail/rescroller/ddehdnnhjimbggeeenghijehnpakijod): 自定义滚动条
 * [Save to Pocket](https://chrome.google.com/webstore/detail/niloccemoadcdkdjlinkgdfekeahmflj): Pocket Chrome扩展. 保存浏览的文章、视频等，同步到多端
 * [Screenity: 屏幕录像和标注工具](https://chrome.google.com/webstore/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj): Chrome 最强大的屏幕录制，支持捕获，注释，编辑等
 * [Steward](https://chrome.google.com/webstore/detail/steward/dnkhdiodfglfckibnfcjbgddcgjgkacd): 启动器/便捷管理扩展/应用/标签/历史记录等, Browser Alfred
@@ -86,6 +86,7 @@
 * [Markdown Here](http://markdown-here.com/): Write your email in Markdown, then make it pretty
 * [NPM Graph - linking GitHub and NPM](https://chrome.google.com/webstore/detail/gnpceigphcdemgkopgfomchcloeimfbk): Evaluate NPM packages by listing top GitHub projects that depend on them
 * [Octotree](https://github.com/buunguyen/octotree): Code tree for GitHub
+* [OpenGraphs](https://www.opengraphs.com/tools/browser-extension): Open Graph debugger and social share previews, without leaving your site.
 * [Porter Plug](https://porter.io/plug/): 根据Porter.io为Github项目提供可视化数据图表
 * [Page Ruler](https://chrome.google.com/webstore/detail/jlpkojjdgbllmedoapgfodplfhcbnbpn): 网页元素度量标尺
 * [PerfectPixel](https://chrome.google.com/webstore/detail/dkaagdgjmgdmbnecmcefdhjekcoceebi): 完美像素，将开发和设计视觉对比
@@ -113,4 +114,4 @@
 * [WEB前端助手(FeHelper)](https://www.baidufe.com/fehelper): FE助手：包括字符串编解码、代码压缩、美化、JSON格式化、正则表达式、时间转换工具、二维码生成与解码、编码规范检测、页面性能检测、页面取色、Ajax接口调试
 * [Wikiwand: Wikipedia Modernized](http://www.wikiwand.com/): 为 Wikipedia 提供良好的阅读体验
 * [Web Developer Checklist](https://chrome.google.com/webstore/detail/iahamcpedabephpcgkeikbclmaljebjp): Analyses any web page for violations of best practices
-* [xvg](https://chrome.google.com/webstore/detail/pkonfdillndlekdkcnifkafccnhcgade): An extension for debugging SVG paths by converting them to outlines and displaying anchors, control 
+* [xvg](https://chrome.google.com/webstore/detail/pkonfdillndlekdkcnifkafccnhcgade): An extension for debugging SVG paths by converting them to outlines and displaying anchors, control
