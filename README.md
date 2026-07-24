@@ -54,6 +54,7 @@
 ### 安全（Security）
 * [Avast Online Security](https://chrome.google.com/webstore/detail/gomekmidlodglbbmalcneegieacbdmki): Avast 浏览器版本，帮助你识别恶意链接，避免损失
 * [LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd): 值得信任的在线密码管理器
+* [Spoof Me（Chrome）](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) / [Spoof Me（Firefox）](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/): 浏览器指纹检查与修改工具，可配置 User-Agent、语言、时区、屏幕尺寸、Canvas、WebGL 等浏览器身份信号
 
 ### 娱乐（Entertainment）
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb): 世界上最受欢迎的广告拦截软件
