@@ -47,6 +47,7 @@
 * [微信公众号同步助手](https://chrome.google.com/webstore/detail/hchobocdmclopcbnibdnoafilagadion): 微信公众号文章同步助手，支持头条号、简书、知乎、WordPress
 * [RSSHub-Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa): 帮助你快速发现和订阅当前网站的 RSS 和 RSSHub
 * [Keptab](https://chrome.google.com/webstore/detail/keptab/feodekcipceogpeomnijgmdlmocbggbi): 保存标签分组用于稍后阅读
+* [Tabox](https://chromewebstore.google.com/detail/tabox-save-and-share-tab/bdbliblipiempfdkkkjohnecmeknnpoa): 一键保存所有标签页和标签组为集合，随时一键恢复整个会话，支持 Google Drive 多设备同步和链接分享，免费开源
 * [Urlify](https://chrome.google.com/webstore/detail/urlify-%E7%9F%AD%E9%93%BE%E6%8E%A5%E5%B7%A5%E5%85%B7/nkjhpeaddieapfonodmgbcaebclooknd): 右键快速生成短链接
 * [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb): 免费的密码管理器，支持个人和团队，是 Lastpass 替代品
 * [ChatGPT-for-Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf): 将 ChatGPT 用于 Google Search
