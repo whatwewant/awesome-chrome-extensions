@@ -50,6 +50,7 @@
 * [Urlify](https://chrome.google.com/webstore/detail/urlify-%E7%9F%AD%E9%93%BE%E6%8E%A5%E5%B7%A5%E5%85%B7/nkjhpeaddieapfonodmgbcaebclooknd): 右键快速生成短链接
 * [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb): 免费的密码管理器，支持个人和团队，是 Lastpass 替代品
 * [ChatGPT-for-Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf): 将 ChatGPT 用于 Google Search
+* [快推 EasyPost](https://chromewebstore.google.com/detail/ajdpfajmgibbniipjfgjiappllekpiak): 专为现代创作者打造的轻量级多平台一键分发扩展，支持图文笔记与短视频两大多模态高频场景
 
 ### 安全（Security）
 * [Avast Online Security](https://chrome.google.com/webstore/detail/gomekmidlodglbbmalcneegieacbdmki): Avast 浏览器版本，帮助你识别恶意链接，避免损失
